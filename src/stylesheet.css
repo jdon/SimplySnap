@@ -1,0 +1,33 @@
+.button1{
+	-fx-spacing: 200;
+    -fx-text-fill: #006464;
+    -fx-background-color: #DFB951;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 10;
+}
+.button1:hover{
+    -fx-text-fill: #006464;
+    -fx-background-color: black;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-padding: 10;
+}
+.text{
+	-fx-text-fill: #006464;
+	-fx-font-size: 15;
+}
+#bar{
+	 -fx-background-color: grey;
+}
+#helptext{
+	-fx-font-size: 15;
+	-fx-background-color: green;
+}
+#playertextentry{
+	-fx-text-fill: white;
+}
+#timepassedlabel{
+	-fx-text-fill: white;
+	-fx-font-size: 20;
+}
